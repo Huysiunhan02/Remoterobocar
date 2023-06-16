@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Remoterobocar</string>
+    <string name="scan_device">Scan Device</string>
+</resources>

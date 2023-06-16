@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item android:state_checked="true">-->
+<!--        <shape android:shape="rectangle">-->
+<!--&lt;!&ndash;            <solid android:color="@color/blue"/>&ndash;&gt;-->
+<!--            <corners android:radius="100dp"/>-->
+<!--            <gradient android:startColor="#00DBDE" android:endColor="#FC00FF"/>-->
+<!--&lt;!&ndash;            <stroke android:width="2dp" android:color="@color/blue"/>&ndash;&gt;-->
+<!--            <size android:height="20dp" android:width="60dp"/>-->
+<!--        </shape>-->
+<!--    </item>-->
+<!--    <item android:state_checked="false">-->
+<!--        <shape android:shape="rectangle">-->
+<!--            <solid android:color="@color/white"/>-->
+<!--            <corners android:radius="100dp"/>-->
+<!--            <stroke android:width="2dp" android:color="@color/blue"/>-->
+<!--            <size android:height="20dp" android:width="60dp"/>-->
+<!--        </shape>-->
+<!--    </item>-->
+    <item android:state_checked="true" android:drawable="@drawable/ic_track"/>
+    <item android:state_checked="false" android:drawable="@drawable/ic_track2"/>
+</selector>

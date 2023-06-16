@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable-anydpi/ic_connect.xml" value="0.1935" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable-anydpi/ic_down.xml" value="0.2385" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/button_connect.xml" value="0.1935" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/button_connect_default.xml" value="0.1935" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/button_connect_press.xml" value="0.1935" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/button_scan.xml" value="0.1985" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/button_scan_default.xml" value="0.1935" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/button_scan_press.xml" value="0.1935" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/circle.xml" value="0.1935" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/custom_button.xml" value="0.2" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/custom_button_down.xml" value="0.2155" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/custom_button_left.xml" value="0.2155" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/custom_button_right.xml" value="0.2155" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/custom_button_up.xml" value="0.1985" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/gradient.xml" value="0.1935" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/ic_button_up.xml" value="0.226" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/ic_icon.xml" value="0.226" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/ic_launcher_background.xml" value="0.226" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/ic_thumb.xml" value="0.226" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/ic_thumb_of.xml" value="0.2175" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/ic_thumb_on.xml" value="0.226" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/ic_track.xml" value="0.2175" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/list_spiner_custom.xml" value="0.1985" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/seekbar_custom.xml" value="0.1935" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/style_spiner1.xml" value="0.224" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/switch_thumb.xml" value="0.1935" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/switch_track.xml" value="0.1935" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/drawable/thumb_switch.xml" value="0.1935" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/layout/activity1.xml" value="0.2" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/layout/activity2.xml" value="0.23229166666666667" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/layout/activity_main.xml" value="0.20833333333333334" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/layout/main_activity.xml" value="0.2" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/layout/style_list_spinner.xml" value="0.23229166666666667" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/layout/style_spinner.xml" value="0.1966490299823633" />
+        <entry key="..\:/Learn/Do_an_4/Code/Remoterobocar/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.226" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
